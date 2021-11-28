@@ -8,7 +8,7 @@
 -With these visuals, we found that Maximum Retail Price(MRP) was the primary driver of the sales an item brings in.  However, these sales were very dependent on the type of outlet the item was sold in.  Grocery stores delivered lower sales regardless of MRP, while Supermarket type 3 delivered higher sales across all MRP.  Unexpectedly, the data showed no correlation between the shelf space alloted to an item and the sales of that item. 
 
 
-![image](https://user-images.githubusercontent.com/91917998/140585591-1b6bf170-fefa-4381-a013-e8a79563e81b.png) 
+![image](https://user-images.githubusercontent.com/91917998/143726264-6f3f60d8-21aa-4f7f-a1f2-946e259281c2.png)
 
 
 ![image](https://user-images.githubusercontent.com/91917998/143725992-ea4d282b-5caf-4d33-a458-663431ecc5b7.png)
